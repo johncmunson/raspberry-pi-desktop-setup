@@ -30,8 +30,13 @@
     Add the following line to `.config/fish/config.fish`...
     $ set -x N_PREFIX "$HOME/n"; set -x PATH "$N_PREFIX/bin" $PATH
     ```
+7. Setup github
+    ```
+    // CREATE DEFAULT SSH PUBLIC/PRIVATE KEYPAIR
+    $ ssh-keygen
+    Add id_rsa.pub to Github
+    ```
 
-- setup github
 - create document for raspberry pi tips and tricks, and common commands
     - scrot for taking screenshots
     - https://askubuntu.com/questions/43264/how-to-open-a-pdf-file-from-terminal
