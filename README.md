@@ -16,7 +16,7 @@
     $ sudo apt update
     $ sudo apt install code
     ```
-4. Install vim
+4. Install Vim
     ```
     $ sudo apt install vim
     ```
